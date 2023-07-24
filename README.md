@@ -1,5 +1,7 @@
 ### 👋 Hi there
 
+Welcome to my GitHub profile!
+
 🌱I’m currently enriching my skills and knowledge at Henry Bootcamp, where I am mastering a wide range of technologies. My expertise includes working with:
 
 JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS | Git
