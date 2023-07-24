@@ -6,6 +6,6 @@ JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS |
 
 🔭 I’m currently working on my Final Proyect at Henry, a Single Page Application that will soon be deployed. 
 
-### Reach me 👇
+### Let's connect👇
 👨‍💻LinkedIn: https://www.linkedin.com/in/milagrosfboto/
 ✉️Email: milagrosfernandezboto@gmail.com
