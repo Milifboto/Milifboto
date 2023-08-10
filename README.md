@@ -11,4 +11,4 @@ JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS |
 ### 👨‍💻 Let's connect
 LinkedIn: https://www.linkedin.com/in/milagrosfboto/
 
-Email: milagrosfernandezboto@gmail.com
+Email: milifboto@gmail.com
