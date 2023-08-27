@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+👨‍💻I'm Milagros, a highly motivated Full Stack Developer with a deep passion for creativity and innovation in the ever-evolving tech world.
+
 🌱I’m currently enriching my skills and knowledge at Henry Bootcamp, where I am mastering a wide range of technologies. My expertise includes working with:
 
 JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS | Tailwind| Git
