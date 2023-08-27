@@ -8,9 +8,24 @@ Welcome to my GitHub profile!
 
 JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS | Tailwind| Git
 
-🔭 I’m currently working on my Final Proyect at Henry, a Single Page Application that will soon be deployed. 
+🚀 I’ve just finished my Final Project at Henry, a Single Page Application for a company called Bookbuster. This project was a collaborative effort involving a team of 8 developers, and it represents a month's worth of dedication and hard work.
+
+🔭 I’m currently working on new projects that continue to push the boundaries of my skills and knowledge.
+
+👨‍🏫 As a junior developer, here's what I bring to the table:
+
+- **Passion for Learning:** I thrive in dynamic environments where I can continuously learn and adapt to new technologies and methodologies.
+
+- **Team Collaboration:** My experience in collaborative projects has honed my skills in communication, problem-solving, and contributing effectively within a team.
+
+- **Code Quality:** I'm dedicated to writing clean, maintainable code and following best practices to ensure the longevity and scalability of projects.
+
+- **Problem Solving:** I have a knack for breaking down complex problems into manageable components, making troubleshooting and debugging more efficient.
+
+- **Eager to Contribute:** I'm enthusiastic about contributing to projects that have a positive impact, and I'm not afraid to ask questions or seek guidance when needed.
 
 ### 👨‍💻 Let's connect
+
 LinkedIn: https://www.linkedin.com/in/milagrosfboto/
 
 Email: milifboto@gmail.com
