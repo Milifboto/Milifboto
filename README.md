@@ -30,10 +30,10 @@ Welcome to my GitHub profile!
 
 <div>
 <a href="https://www.linkedin.com/in/milagrosfboto/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin"/>
 </a> 
-  <div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/>
-  <p style="margin-left: 5px;">milifboto@gmail.com</p>
+<div>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <p>milifboto@gmail.com</p>
 </div>
 </div>  
