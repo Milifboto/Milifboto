@@ -32,8 +32,9 @@ Welcome to my GitHub profile!
 <a href="https://www.linkedin.com/in/milagrosfboto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin"/>
 </a> 
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;" alt="gmail" style="margin-bottom: 5px; vertical-align: middle;">
-  <p style="display: inline-block; margin: 0; vertical-align: middle;">milifboto@gmail.com</p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/>
+  <br>
+  milifboto@gmail.com
+</p>
 </div>  
