@@ -1,3 +1,5 @@
+<img src="https://github.com/Milifboto/Milifboto/blob/main/assets/me.gif" alt="Me" >
+
 <h1>👋 Hello < Developers /> !</h1> 
 
 Welcome to my GitHub profile!
