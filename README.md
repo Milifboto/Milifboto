@@ -1,4 +1,4 @@
-<img src="https://github.com/Milifboto/Milifboto/blob/main/assets/me.gif" alt="Me" >
+<img src="https://github.com/Milifboto/Milifboto/blob/main/assets/Me.gif" alt="Me" >
 
 <h1>👋 Hello < Developers /> !</h1> 
 
