@@ -34,6 +34,6 @@ Welcome to my GitHub profile!
 </a> 
 <div>
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
-<h3>milifboto@gmail.com</h3>
+<p>: milifboto@gmail.com</p>
 </div> 
 </div>  
