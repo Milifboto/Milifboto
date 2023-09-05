@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 🌱I’m currently enriching my skills and knowledge at Henry Bootcamp, where I am mastering a wide range of technologies. My expertise includes working with:
 
-JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML | CSS | Tailwind| Git
+<img src="https://raw.githubusercontent.com/Milifboto/Milifboto/main/assets/skills.png" alt="My Skills" />
 
 🚀 I’ve just finished my Final Project at Henry, a Single Page Application for a company called Bookbuster. This project was a collaborative effort involving a team of 8 developers, and it represents a month's worth of dedication and hard work.
 
