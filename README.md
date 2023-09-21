@@ -1,6 +1,6 @@
 <img src="https://github.com/Milifboto/Milifboto/blob/main/assets/Me.gif" alt="Me" >
 
-###👋 Hello < Developers /> ###
+# 👋 Hello < Developers />
 
 Welcome to my GitHub profile!
 
