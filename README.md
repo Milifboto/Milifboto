@@ -10,8 +10,6 @@ Welcome to my GitHub profile!
 
 <img src="https://raw.githubusercontent.com/Milifboto/Milifboto/main/assets/skills.png" alt="My Skills" />
 
-🚀 I’ve just finished my Final Project at Henry, a Single Page Application for a company called Bookbuster. This project was a collaborative effort involving a team of 8 developers, and it represents a month's worth of dedication and hard work.
-
 🔭 I’m currently working on new projects that continue to push the boundaries of my skills and knowledge.
 
 👨‍🏫 As a junior developer, here's what I bring to the table:
